@@ -10,4 +10,4 @@ python run_tde.py --gnn_type edge --batch_size 20 --hL 2 --hdim 100 --maxIter 20
 python main.py --dataset DS1  --brlen_model gnn --gnn_type edge --hL 2 --hdim 100 --maxIter 400000 --empFreq --psp
 
 ```
-You can also load the data, set up and train the model on your own. See more details in [main.py](https://github.com/zcrabbit/vbpi-gnn/blob/main/main.py).
+You can also load the data, set up and train the model on your own. See more details in [main.py](https://github.com/zcrabbit/vbpi-gnn/blob/main/main.py) and [run_tde.py](https://github.com/zcrabbit/vbpi-gnn/blob/main/run_tde.py).
