@@ -1,6 +1,18 @@
 # vbpi-gnn
 Code for [learnable topological features for phylogenetic inference via graph neural networks](https://openreview.net/forum?id=hVVUY7p64WL)
 
+Please cite our paper if you find the code useful
+```
+@inproceedings{
+zhang2023learnable,
+title={Learnable Topological Features For Phylogenetic Inference via Graph Neural Networks},
+author={Cheng Zhang},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=hVVUY7p64WL}
+}
+```
+
 
 ## Mini demo
 
